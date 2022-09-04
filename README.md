@@ -12,8 +12,8 @@ This website contains the overview of my company which majorly focuses on provid
 
 # Project Set-up Details
 
- * Initial Step
+ ## Initial Step
     Clone this project using **https://github.com/aditimewada/CS648-Assignment1.git**
 
- * Development server
+ ## Development server
     Open `index.html` in the chrome browser.
